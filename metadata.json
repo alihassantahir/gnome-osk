@@ -1,0 +1,7 @@
+{
+  "uuid": "osk@aht.com",
+  "name": "OSK Toggle",
+  "description": "Clickable icon in the status bar to toggle On-Screen Keyboard.",
+  "shell-version": ["50"],
+  "url": ""
+}
