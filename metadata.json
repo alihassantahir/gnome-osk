@@ -1,6 +1,6 @@
 {
   "uuid": "osk@aht.com",
-  "name": "OSK Toggle",
+  "name": "GNOME On-Screen Keyboard",
   "description": "Clickable icon in the status bar to toggle On-Screen Keyboard.",
   "shell-version": ["50"],
   "url": ""
