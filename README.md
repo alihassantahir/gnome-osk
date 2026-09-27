@@ -21,6 +21,6 @@ GNOME's default on-screen keyboard lacks flexibility and customization. This ext
 
    ```bash
    mkdir -p ~/.local/share/gnome-shell/extensions/
-   git clone [https://github.com/alihassantahir/gnome-osk.git](https://github.com/alihassantahir/gnome-osk.git) ~/.local/share/gnome-shell/extensions/osk@aht.com
-
+   git clone https://github.com/alihassantahir/gnome-osk.git ~/.local/share/gnome-shell/extensions/osk@aht.com
+   
 2. Logout and re login. It should work, an OSK icon will appear in panel!
